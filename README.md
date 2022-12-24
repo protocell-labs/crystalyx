@@ -1,8 +1,17 @@
-# Crystalyx
+![Crystalyx logo](https://github.com/protocell-labs/crystalyx/blob/main/crystalyx_title.png?raw=true)
 
-Code for a GENTK generative token on fxhash.xyz Tezos NFT platform.
+Code for a GENTK generative token on [fxhash.xyz](https://www.fxhash.xyz/) Tezos NFT platform.
 
-https://www.fxhash.xyz/generative/slug/crystalyx
+You can run live generator of the collection with random seeds here:
+- [Crystalyx (generator)](https://protocell-labs.github.io/crystalyx/)
+
+Collection overview on fxhash.xyz (original minting site):
+- [Crystalyx (fxhash)](https://www.fxhash.xyz/generative/slug/crystalyx)
+
+Collection overview on fxfam.xyz (better layout and filtering):
+- [Crystalyx (fxfam)](https://fxfam.xyz/10555)
+
+# Token description
 
 Project #10555, published on 11/03/2022 at 07:18
 
